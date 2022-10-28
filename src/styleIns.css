@@ -1,0 +1,30 @@
+.photos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.img{
+width: 246px;
+height: 300px;
+margin: 10px;
+background-size: 246px 300px;
+
+}
+.one{
+    background-image: url("//i.pinimg.com/564x/4c/ed/e7/4cede70fb17753aba38e424ce43ad7c8.jpg");
+}
+.two{
+    
+    background-image: url("//i.pinimg.com/564x/1b/ac/14/1bac146d484aef7e289abdfe4d13e84f.jpg");
+}
+.three{
+    background-image: url("//i.pinimg.com/564x/82/56/96/8256965d6738d20f1c8771ab241dc69d.jpg");
+}
+.four {
+    background-image: url("//i.pinimg.com/564x/1b/93/e7/1b93e7a0f09d47327348199527556b03.jpg");
+}
+.five {
+    background-image: url("//i.pinimg.com/564x/a3/0d/f3/a30df36ff3d3891a9c4553ed796c6bc7.jpg");
+}
+.six {
+    background-image: url("//i.pinimg.com/564x/78/02/6a/78026a449a600551ec174e4fb5d91661.jpg");
+}
